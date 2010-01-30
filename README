@@ -1,3 +1,13 @@
+ Linux Live Ubuntu
+ 
+   This is modified version of Linux Live scripts.
+   Modifications were done to allow easy building LiveCD of
+   Ubuntu 9.04 (Jaunty) i386. It uses original Ubuntu kernel
+   therefore some scrips and files had to be changed.
+   Lzma compression disabled.
+   Original Linux Live scripts description below.
+   Laurynas Butkus, laurynas.butkus at gmail com
+
 
  Linux Live scripts
 

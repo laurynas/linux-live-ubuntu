@@ -2,5 +2,5 @@ root=/dev/ram0
 init=linuxrc
 load_ramdisk=1
 prompt_ramdisk=0
-ramdisk_size=6666
+ramdisk_size=16384
 rw
